@@ -1,0 +1,78 @@
+
+/* Forms */
+.form-control {
+    border-color: #4c4c4c !important;
+}
+
+.form-control:focus {
+    color: #090606 !important;
+    border-color: #4c4c4c !important;
+    box-shadow: 0 0 0 0.2rem rgb(220 4 4 / 40%) !important;
+}
+
+/* Secondary Buttons */
+.btn-outline-secondary{
+    border-color: #4c4c4c !important;
+}
+
+.btn-outline-secondary:hover {
+    color: #fff;
+    background-color: #b10404 !important;
+    border-color: #4c4c4c !important;
+}
+
+.btn-outline-secondary:focus {
+    box-shadow: 0 0 0 0.2rem rgb(220 4 4 / 50%) !important;
+}
+
+/* Links */
+a{
+    color: #7c7c7c !important;
+}
+
+a:hover{
+    color: #a60814 !important;
+}
+
+.siteLink{
+    color: #090606 !important;
+}
+
+.btn:focus, .btn.focus {
+    box-shadow: 0 0 0 0.2rem rgb(220 4 4 / 50%) !important;
+}
+
+/* Primary Buttons */
+.btn-primary{
+    color: #f9f9f9 !important;
+    background-color: #dc0404 !important;
+    border-color: #b10404 !important;
+}
+
+.btn-primary:focus{
+    box-shadow: 0 0 0 0.2rem rgb(220 4 4 / 50%) !important;
+}
+
+
+/* Drop Down */
+
+.dropdown-item:hover, .dropdown-item:active {
+    color: #f9f9f9 !important;
+    background-color: #9c140c !important;
+}
+
+/* Card Header */
+.card-header {
+    background-color: #dc0404 !important;
+    border-radius: 20px 20px 0px 0px!important;
+    color: #f9f9f9 !important;
+}
+
+.card {
+    border-radius: 20px 20px 20px 20px!important;
+}
+
+/* Headers */
+.my-header{
+    color: #dc0404 !important;
+}
